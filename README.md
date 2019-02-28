@@ -1,6 +1,9 @@
 # donkey-vis
 Donkeycar neural network model visualization built on top of https://github.com/raghakot/keras-vis
 
+![example](https://github.com/markku-ai/donkey-vis/blob/master/example.gif)
+
+
 ## Requirements
 1. OpenCV
 1. Conda
